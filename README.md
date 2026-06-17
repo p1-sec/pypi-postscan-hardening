@@ -156,7 +156,7 @@ and removes unsafe mirrors.
 Clone:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/pypi-ir-hardening.git
+git clone https://github.com/p1-sec/pypi-ir-hardening.git
 
 cd pypi-ir-hardening
 ```

@@ -5,7 +5,6 @@ This repository was developed with the assistance of Anthropic Claude for:
 - Incident response logic design
 - Bash scripting assistance
 - Security hardening recommendations
-- Documentation and README generation
 
 Final design decisions, testing, and validation were performed by the repository owner.
 

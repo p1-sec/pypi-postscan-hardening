@@ -1,5 +1,13 @@
-# pypi-postscan-hardening
-Incident Response and post-compromise hardening toolkit for Linux systems following suspected PyPI supply chain attacks. Includes false-positive verification, systemd auditing, pip hardening, C2 blocking, and package integrity validation.
+## AI Assistance
+
+This repository was developed with the assistance of Anthropic Claude for:
+
+- Incident response logic design
+- Bash scripting assistance
+- Security hardening recommendations
+- Documentation and README generation
+
+Final design decisions, testing, and validation were performed by the repository owner.
 
 # PyPI IR Hardening
 
